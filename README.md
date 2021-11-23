@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chatrapathi...
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning cybersecurity.
 - 🧔 I'm young front end developer.
 
 <!---
